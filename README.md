@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hey Welcome to my Github!
+
+🌆 I am located in Toronto, Ontario, and I have a passion for Full Stack Development.
+
+💻 Some of the technologies I work with are React, Next.js, Express, JavaScript, HTML, CSS, TypeScript, and TailwindCSS.
+
+🏋️‍♂️ In my free time, I like to lift weights.
 
 <!--
 **AzizRahmanSWE/AzizRahmanSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
